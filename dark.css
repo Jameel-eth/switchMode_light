@@ -1,0 +1,33 @@
+/* Chapter 13 Practice 2 project*/
+body{
+	background-color: darkred;
+	text-align: center;
+}
+div#mode{
+	background-color: indigo;
+	width: 30%;
+	font-size: 1.7em;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	border: darkorange 4px double;
+	border-radius: 10px;
+	cursor: pointer;
+	color: white;
+}
+h1{
+	color: thistle;
+}
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+}
+li{
+	width: 15%;
+	margin-right: auto;
+	margin-left: auto;
+	color: lightgoldenrodyellow;
+
+}
